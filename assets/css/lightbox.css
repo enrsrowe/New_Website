@@ -186,7 +186,7 @@
 /* ADDED FOR BORDERS */
 .imageRow {
   *zoom: 1;
-  margin: 20px 0;
+  margin: 20px 5px 20px 20px; /*TRBL 20px 0 EDITED 31.01.13,,MMKM*/
 }
 /* line 38, ../../../../.rvm/gems/ruby-1.9.2-p290/gems/compass-0.12.1/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
 .imageRow:after {
